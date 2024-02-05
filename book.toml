@@ -1,0 +1,6 @@
+[book]
+authors = ["10xtarun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Full-stack development using MERN"
