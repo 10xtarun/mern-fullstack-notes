@@ -15,8 +15,17 @@
 # Web Development Basics
 
 - [Introduction](./web-development-basics/introduction.md)
-- [HTML]()
-    - [Skeleton of a Webpage]()
+- [HTML](./web-development-basics/html-1-intro.md)
+    - [Skeleton of a Webpage](./web-development-basics/html-2-skeleton.md)
+    - [Tags & Elements](./web-development-basics/html-tags-elements.md)
+    - [Texts, Title, Paragraph & Body](./web-development-basics/html-texts-title-para-body.md)
+    - [Lists](./web-development-basics/html-lists.md)
+    - [Semantic HTML & Divs & Spans](./web-development-basics/html-semantic-divs-spans.md)
+    - [Images & Videos](./web-development-basics/html-images-videos.md)
+    - [Forms](./web-development-basics/html-forms.md)
+    - [Links & Anchor Tag](./web-development-basics/html-links-anchor-tags.md)
+    - [Tables](./web-development-basics/html-tables.md)
+
 - [CSS]()
     - [Types of CSS]()
 - [JavaScript]()
