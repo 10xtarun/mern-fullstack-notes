@@ -22,13 +22,19 @@
     - [Lists](./web-development-basics/html-lists.md)
     - [Semantic HTML & Divs & Spans](./web-development-basics/html-semantic-divs-spans.md)
     - [Images & Videos](./web-development-basics/html-images-videos.md)
-    - [Forms](./web-development-basics/html-forms.md)
-    - [Links & Anchor Tag](./web-development-basics/html-links-anchor-tags.md)
-    - [Tables](./web-development-basics/html-tables.md)
+    <!-- - [Forms](./web-development-basics/html-forms.md) -->
+    <!-- - [Links & Anchor Tag](./web-development-basics/html-links-anchor-tags.md) -->
+    <!-- - [Tables](./web-development-basics/html-tables.md) -->
 
-- [CSS]()
-    - [Types of CSS]()
+- [CSS](./web-development-basics/css-intro.md)
+    - [Types of CSS](./web-development-basics/css-types.md)
+
+# Practice: HTML & CSS
+- [Simple Webpage](./web-development-basics/html-project-webpage.md)
+
+
 - [JavaScript]()
     - [Data Types]()
+
 
 [Contributors]()
