@@ -37,7 +37,23 @@
 
 - [Simple Webpage](./web-development-basics/html-project-webpage.md)
 
-- [JavaScript]()
-  - [Data Types]()
+- [JavaScript](./js/ReadMe.md)
+  - [JS Fundamentals](./js/fundamentals.md)
+  - [Objects in JS](./js/objects.md)
+  - [Arrays in JS](./js/arrays.md)
+  - [JavaScript Execution](./js/execution.md)
+    - [V8 Engine](./js/v8-engine.md)
+    - [Event Loop](./js/event-loop.md)
+    - [Callbacks](./js/callbacks.md)
+  - [Asynchronous Programming](./js/async-programming.md)
+
+## Practice: JavaScript
+
+- [Exercise: Array](./js/practice-array.md)
+- [Exercise: Objects](./js/practice-objects.md)
+- [Exercise: DOM](./js/practice-dom.md)
+- [Exercise: Async Programming](./js/practice-async-programming.md)
+
+
 
 [Contributors]()

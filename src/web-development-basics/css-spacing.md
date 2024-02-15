@@ -3,7 +3,7 @@
 
 In CSS, margin and padding are two important properties used to add space around and within elements, respectively.
 
-![Margin And Padding](./images/cssmarginandpadding.png "Referenced from Geeks for Geeks")
+![Margin And Padding](../images/cssmarginandpadding.png "Referenced from Geeks for Geeks")
 *Above image is referenced from GeeksforGeeks*
 
 Margin refers to the space between an element and its neighboring elements, while padding refers to the space between an element and its content. Some examples of how to use these properties:
