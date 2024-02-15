@@ -14,4 +14,4 @@ Contributors:
 * Sourabh Malewade [Visit LinkedIn](https://www.linkedin.com/in/sourabh-malewade-a311b1195/)
 * Swapnil Mistry [Visit LinkedIn](https://www.linkedin.com/in/swapnil-mistry/)
 
-
+> Please note: Currently the notes are being update on this website, you will see more content in near future.
