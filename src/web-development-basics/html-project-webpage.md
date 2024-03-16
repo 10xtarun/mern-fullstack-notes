@@ -1,4 +1,4 @@
-# Create a basic webpage in HTML:
+# Create a basic webpage in HTML
 
 > In this project, we'll create a basic webpage for a fictional restaurant. We'll include elements such as headings, paragraphs, images, links, lists, forms, and more.
 

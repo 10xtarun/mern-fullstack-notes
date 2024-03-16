@@ -54,6 +54,18 @@
 - [Exercise: DOM](./js/practice-dom.md)
 - [Exercise: Async Programming](./js/practice-async-programming.md)
 
+## Assignments
 
+- [Assignments](./assignments/assignments_details.md)
+  - [Assignment 1: Dice Game UI](./assignments/1/dice_game.md)
+  - [Assignment 1: Counter Block UI](./assignments/1/create_block.md)
+  - [Assignment 1: Portfolio Website UI](./assignments/1/portfolio_website_ui.md)
+
+  - [Assignment 2: Make API Calls in JS](./assignments/2/make_api_call_injs.md)
+  - [Assignment 2: Convert your HTML and CSS project into React](./assignments/2/convert_to_react.md)
+  - [Assignment 2: Todo App](./assignments/2/todo_app_ui.md)
+
+  - [Assignment 3: Drill down props from parent to child](./assignments/3/react_props_drill.md)
+  - [Assignment 3: Fetch data from API in React](./assignments/3/fetch_in_react.md)
 
 [Contributors]()
