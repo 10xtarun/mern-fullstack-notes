@@ -37,6 +37,8 @@
 
 - [Simple Webpage](./web-development-basics/html-project-webpage.md)
 
+## JavaScript
+
 - [JavaScript](./js/ReadMe.md)
   - [JS Fundamentals](./js/fundamentals.md)
   - [Objects in JS](./js/objects.md)
@@ -53,6 +55,17 @@
 - [Exercise: Objects](./js/practice-objects.md)
 - [Exercise: DOM](./js/practice-dom.md)
 - [Exercise: Async Programming](./js/practice-async-programming.md)
+
+## Backend Development: NodeJS, Express & APIs
+
+- [Backend Development](./backend/node/introduction.md)
+  - [NodeJS](./backend/node_js.md)
+  - [NodeJS Fundamentals](./backend/node_fundamentals.md)
+  - [npm](./backend/npm.md)
+  - [Modules Fundamentals](./backend/modules.md)
+  - [Modules: File System](./backend/file_system.md)
+  - [Modules: http (server)](./backend/http_server.md)
+  - [REST API: http (server)](./backend/rest_apis.md)
 
 ## Assignments
 
