@@ -67,6 +67,22 @@
   - [Modules: http (server)](./backend/http_server.md)
   - [REST API: http (server)](./backend/rest_apis.md)
 
+## Android Development
+
+- [Introduction to Android](./android/introduction.md)
+  - [Android Studio Setup](./android/setup.md)
+  - [Kotlin Basics](./android/kotlin-basics.md)
+  - [Android Project Structure](./android/project-structure.md)
+  - [Jetpack Compose Fundamentals](./android/compose-fundamentals.md)
+    - [Composable Functions](./android/compose-functions.md)
+    - [State Management](./android/state-management.md)
+    - [Navigation](./android/navigation.md)
+  - [MVVM Architecture](./android/mvvm-architecture.md)
+  - [MediLink Implementation](./android/medilink-implementation.md)
+  - [Authentication](./android/authentication.md)
+  - [Network Layer](./android/network.md)
+  - [Data Models](./android/data-models.md)
+
 ## Assignments
 
 - [Assignments](./assignments/assignments_details.md)

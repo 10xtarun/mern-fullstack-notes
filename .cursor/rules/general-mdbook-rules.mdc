@@ -1,0 +1,39 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# cursorrules.md
+
+## Module Documentation Rules
+
+### Structure
+
+- Begin with a short overview of what this module covers.
+- Divide content into sections: Introduction, Concepts, Setup, Usage, Examples, and Troubleshooting (if relevant).
+- Each sub-section should be in a separate file and referenced via `SUMMARY.md`.
+
+### Content Expectations
+
+- Provide diagrams or flowcharts using `mermaid` if applicable.
+- Include a real-world use-case or scenario.
+- Clearly mention any pre-requisites or dependencies.
+
+### Code Samples
+
+- Ensure samples are syntactically correct and runnable if copied.
+- Include `Expected Output` if relevant.
+- Prefer minimal examples that focus on core concepts.
+
+### Update Policy
+
+- Revisit this module’s docs whenever the code changes significantly.
+- Deprecate outdated sections with clear notes, e.g., `> Deprecated since v1.2`.
+
+### Review Checklist
+
+- [ ] All sections have headings.
+- [ ] Syntax and spell-check completed.
+- [ ] All internal links resolve correctly.
+- [ ] Tested with `mdbook build`.
+
